@@ -26,4 +26,4 @@ The hash table will help us add the IP counts. This includes functionality like 
  
 ### AI Use
 
-AI tools will only be used for nothing more than high-level design clarification.
+We will not be using AI for anything more than high-level design clarification.
